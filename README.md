@@ -33,7 +33,8 @@ I create responsive, user-friendly interfaces using modern JavaScript frameworks
       <h3>E-Commerce Platform with Angular & Java Springboot</h3>
       <img src="project1-ecommerce.jpg" alt="E-Commerce Platform" width="100%">
       <p>A full-stack e-commerce solution featuring user authentication, payment integration, inventory management, and admin dashboard. Built with Angular, Java Spring Boot, PostgreSQL, and payment gateway integration.</p>
-      <p><a href="https://github.com/yourusername/ecommerce-platform">View Project</a> | <a href="https://www.youtube.com/watch?v=z5in-_mgEI8"><img src="https://img.youtube.com/vi/z5in-_mgEI8/hqdefault.jpg" alt="Live Demo" width="120" style="vertical-align: middle;"></a></p>
+      <p> <a href=" https://github.com/MomoSolaris8/secureAppFrontend"></a>View Project</a></p>
+      <p> <a href="https://www.youtube.com/watch?v=z5in-_mgEI8"><img src="https://img.youtube.com/vi/z5in-_mgEI8/hqdefault.jpg" alt="Live Demo" width="120" style="vertical-align: middle;"></a></p>
     </td>
     <td width="50%">
       <h3>Real-Time Chat Application</h3>
